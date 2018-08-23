@@ -1,0 +1,4 @@
+
+Programming against event hubs can be tricky but luckily Microsoft provides `EventHubProcessorHost` to make your life easier. It supports checkpoint and lease management out of the box. 
+
+See [here](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-programming-guide) for general guidance for programming against Event Hubs using `EventHubProcessorHost`. And more details on how `EvenHubProcessHost` works can be found [here](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-event-processor-host). If you want to get to the sources they are available at [GitHub](https://github.com/Azure/azure-event-hubs-dotnet) which also has some samples linked in the FAQ section of the readme.
