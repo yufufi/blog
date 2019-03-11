@@ -43,4 +43,5 @@ One of the proposed advantages of an orchestration system for microservices like
 [Restricting process CPU usage using nice, cpulimit, and cgroups | Scout APM Blog](https://scoutapp.com/blog/restricting-process-cpu-usage-using-nice-cpulimit-and-cgroups)
 [community/resource-qos.md at master · kubernetes/community · GitHub](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/node/resource-qos.md#oom-score-configuration-at-the-nodes)
 [Understanding resource limits in kubernetes: memory](https://medium.com/@betz.mark/understanding-resource-limits-in-kubernetes-memory-6b41e9a955f9)
+[Understanding resource limits in kubernetes: cpu time](https://medium.com/@betz.mark/understanding-resource-limits-in-kubernetes-cpu-time-9eff74d3161b)
 [QoS, “Node allocatable” and the Kubernetes Scheduler · Do not go gentle into this good night. Rage.](https://www.mgasch.com/post/sched-reconcile/)
