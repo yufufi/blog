@@ -43,12 +43,22 @@ google_analytics: UA-28008615-3
 # Used for Sitemap.xml and your RSS feed
 url: blog.yufufi.com
 
+plugins:
+  - jekyll-feed # atom
+  - jekyll-paginate
+  - jekyll-gist
+    
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+# About/contact
+author:
+  name: Y Furkan Fidan
+  url: http://blog.yufufi.com
+  email: id+blog@yufufi.com
 #
 # !! You don't need to change any of the configuration flags below !!
 #
