@@ -1,4 +1,7 @@
-# Resource Management in Kubernetes
+---
+layout: post
+title: Resource Management in Kubernetes
+---
 
 One of the proposed advantages of an orchestration system for microservices like Kubernetes is the _better_ resource allocation.  How does Kubernetes do this?
 
