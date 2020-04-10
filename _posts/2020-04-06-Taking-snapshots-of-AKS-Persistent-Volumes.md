@@ -3,6 +3,7 @@ layout: post
 title: Taking Snapshots of AKS Persistent Volumes
 author: yufufi
 categories: [programming, tech]
+comments: true
 tags: [kubernetes, AKS, devops, azure]
 ---
 
