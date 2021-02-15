@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ! 'What I learned today
+title: What I learned today
 author: yufufi
 categories: [programming, web development]
 tags: [javascript, css, notes, training]
